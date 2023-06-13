@@ -13,4 +13,6 @@ const sumAll = function (min, max) {
   return sum;
 };
 
+console.log(sumAll(1, '90'));
+
 module.exports = sumAll;
